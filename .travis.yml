@@ -1,0 +1,9 @@
+language: java
+branches:
+  only:
+     master
+notifications:
+  email:
+    recipients:
+      diego.botia@gmail.com
+jdk: oraclejdk8
